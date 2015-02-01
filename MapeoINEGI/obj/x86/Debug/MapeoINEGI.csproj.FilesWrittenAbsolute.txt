@@ -1,0 +1,5 @@
+/Users/eherrador/Desktop/GFK/GeoJSON/MapeoINEGI/MapeoINEGI/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/eherrador/Desktop/GFK/GeoJSON/MapeoINEGI/MapeoINEGI/bin/Debug/MapeoINEGI.exe.mdb
+/Users/eherrador/Desktop/GFK/GeoJSON/MapeoINEGI/MapeoINEGI/bin/Debug/MapeoINEGI.exe
+/Users/eherrador/Desktop/GFK/GeoJSON/MapeoINEGI/MapeoINEGI/obj/x86/Debug/MapeoINEGI.exe
+/Users/eherrador/Desktop/GFK/GeoJSON/MapeoINEGI/MapeoINEGI/obj/x86/Debug/MapeoINEGI.exe.mdb
