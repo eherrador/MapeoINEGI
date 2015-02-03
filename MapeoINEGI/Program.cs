@@ -46,7 +46,6 @@ namespace MapeoINEGI
 					{
 						while((metadatos = streamMetadatos.ReadLine()) != null)
 						{
-
 							string[] datos = metadatos.Split(':'); //LLave -> datos[0]       Valor -> datos[1]
 							if (geojson.Contains(datos[0])) {
 								Console.WriteLine ("Sustituyendo: " + datos[0] + " -> " + datos[1]);
